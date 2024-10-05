@@ -5,7 +5,7 @@
  -anyone can create a todo
 
  -anyone can see their existing todos
-https://github.com/Avan14/todo-app
+
  -anyone can mark their completed todos
 
   # backend had
